@@ -3,3 +3,21 @@
 http://ultra-premium-pro.xyz:8080/live/Emergencia/FZTr4uYC89/38056.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ES:MOVISTAR FORMULA 1 HD" tvg-logo="" group-title="ESPAÑA",ES:MOVISTAR FORMULA 1 HD
 http://ultra-premium-pro.xyz:8080/live/Emergencia/FZTr4uYC89/38140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3 SD" tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63972_64099_0.png" group-title="FUTBOL-CHILE",TNT SPORTS 3 SD
+http://ultra-premium-pro.xyz:8080/live/Emergencia/FZTr4uYC89/32870.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS HD (EX)" tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63972_64099_0.png" group-title="FUTBOL-CHILE",TNT SPORTS HD (EX)
+http://ultra-premium-pro.xyz:8080/live/Emergencia/FZTr4uYC89/38.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS HD EXLUSIVO" tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63972_64099_0.png" group-title="FUTBOL-CHILE",TNT SPORTS HD EXLUSIVO
+http://ultra-premium-pro.xyz:8080/live/Emergencia/FZTr4uYC89/31623.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORT HD (E)" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_hd.png.2de3e07868016506434e4a6b957ca56e.png" group-title="FUTBOL-CHILE",TNT SPORT HD (E)
+http://ultra-premium-pro.xyz:8080/live/Emergencia/FZTr4uYC89/31624.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS HD (720p) " tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63972_64099_0.png" group-title="FUTBOL-CHILE",TNT SPORTS HD (720p) 
+http://ultra-premium-pro.xyz:8080/live/Emergencia/FZTr4uYC89/31844.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS HD (1080p) " tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63972_64099_0.png" group-title="FUTBOL-CHILE",TNT SPORTS HD (1080p) 
+http://ultra-premium-pro.xyz:8080/live/Emergencia/FZTr4uYC89/31845.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT  FHD  (PS)" tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63972_64099_0.png" group-title="FUTBOL-CHILE",TNT  FHD  (PS)
+http://ultra-premium-pro.xyz:8080/live/Emergencia/FZTr4uYC89/34469.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORT HD (SD)" tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63972_64099_0.png" group-title="FUTBOL-CHILE",TNT SPORT HD (SD)
+http://ultra-premium-pro.xyz:8080/live/Emergencia/FZTr4uYC89/37949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORT 2 SD" tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63972_64099_0.png" group-title="FUTBOL-CHILE",TNT SPORT 2 SD
+http://ultra-premium-pro.xyz:8080/live/Emergencia/FZTr4uYC89/40411.m3u8
